@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blade View Guardrails"
+  short_description: "Avoid fragile Blade PHP syntax"
+  default_prompt: "Use $blade-view-guardrails to edit this Laravel Blade view safely and avoid misleading parser errors."
