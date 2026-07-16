@@ -12,7 +12,7 @@ By adding these skills to your AI agent's configuration, you can significantly i
 - **Framework & Backend**: `framework-integration`, `senior-laravel-developer`, `laravel-ui-integrator`
 - **Frontend & Mobile**: `flutter-developer`, `blade-view-guardrails`
 - **Engineering Practices**: `expert-fullstack-architecture`, `senior-software-engineer`, `production-resilience`, `mock-data-seeder-design`
-- **Testing**: `tdd`, `testing-strategy`
+- **Testing**: `tdd`, `testing-strategy`, `adversarial-thinking`
 - **Productivity & Context**: `context-optimization`, `prompt-deconstruction`, `to-issues`, `to-prd`, `improve-codebase-architecture`, `grill-me`
 
 ## Usage
