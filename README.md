@@ -9,7 +9,7 @@ By adding these skills to your AI agent's configuration, you can significantly i
 ## Available Skills
 
 - **Architecture & DDD**: `application-layer`, `architecture-migration`, `bounded-contexts`, `distribution-patterns`, `domain-events`, `domain-modeling`, `event-sourcing`, `infrastructure-boundaries`, `persistence-patterns`, `dependency-injection`
-- **Framework & Backend**: `framework-integration`, `senior-laravel-developer`, `laravel-ui-integrator`
+- **Framework & Backend**: `framework-integration`, `senior-laravel-developer`, `laravel-ui-integrator`, `enterprise-laravel-architect`
 - **Frontend & Mobile**: `senior-javascript-developer`, `senior-react-developer`, `senior-vue-developer`, `tailwindcss-expert`, `flutter-developer`, `flutter-android-build-optimization`, `blade-view-guardrails`
 - **Engineering Practices**: `expert-fullstack-architecture`, `senior-software-engineer`, `production-resilience`, `mock-data-seeder-design`
 - **Testing**: `tdd`, `testing-strategy`, `adversarial-thinking`
