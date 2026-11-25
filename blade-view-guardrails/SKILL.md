@@ -1,6 +1,6 @@
 ---
 name: blade-view-guardrails
-description: Laravel Blade view safety guidance for Antigravity. Use when editing Blade templates, diagnosing parser errors reported near endforeach, endif, or compiled views, or adding inline PHP such as page titles and temporary variables. Prevent invalid short @php(...) assignment syntax by using safe Blade or PHP block patterns that compile correctly.
+description: Laravel Blade view safety guidance. Use when editing Blade templates, diagnosing parser errors reported near endforeach, endif, or compiled views, or adding inline PHP such as page titles and temporary variables. Prevent invalid short @php(...) assignment syntax by using safe Blade or PHP block patterns that compile correctly.
 ---
 
 # Blade View Guardrails
